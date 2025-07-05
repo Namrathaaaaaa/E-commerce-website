@@ -44,7 +44,7 @@ app.use('/api/messages', messageRoutes);
 
 const connectDB = () => {
   mongoose
-    .connect(process.env.MONGODB_URI)
+    .connect(process.env.MONGODB_URI || "mongodb://localhost:27017/ecommerce")
     .then(() => console.log("Connected to MONGO DB"))
     .catch((err) => {
       console.error("failed to connect with mongo");

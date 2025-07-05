@@ -1,0 +1,43 @@
+version: "3.8"
+
+services:
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    depends_on:
+      - server
+    ports:
+      - "3000:80"
+    hostname: client
+    networks:
+      - ecommerce-networks
+
+  server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    ports:
+      - "5050:3000"
+    hostname: server
+    depends_on:
+      - mongo
+    environment:
+      - MONGODB_URI=mongodb://mongo:27017/ecommerce
+    networks:
+      - ecommerce-networks
+
+  mongo:
+    image: mongo:6.0
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    networks:
+      - ecommerce-networks
+networks:
+  ecommerce-networks:
+    driver: bridge
+volumes:
+  mongo-data:
