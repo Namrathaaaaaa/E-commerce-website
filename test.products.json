@@ -1,0 +1,1787 @@
+[{
+  "_id": {
+    "$oid": "65ec804b88ab755b24ea8215"
+  },
+  "title": "Stevlet",
+  "name": "Black Casual T-Shirt",
+  "desc": "A comfortable and stylish t-shirt for everyday wear. Cotton blended and fabric finish with all white text on center. Looking absolutely fine and good.",
+  "img": "https://img01.ztat.net/article/spp-media-p1/f4c40b29b4b439169e45ae5c40c40994/9101d3af904c433aa104c3080fbbb1d0.jpg?imwidth=1800",
+  "price": {
+    "org": 29.99,
+    "mrp": 19.99,
+    "off": 33,
+    "_id": {
+      "$oid": "65ec804b88ab755b24ea8216"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L"
+  ],
+  "category": [],
+  "createdAt": {
+    "$date": "2024-03-09T15:29:15.665Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-09T15:29:15.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ed8fdaea413edd6fad04e3"
+  },
+  "title": "Stevlet",
+  "name": "Black Casual T-Shirt",
+  "desc": "A comfortable and stylish t-shirt for everyday wear. Cotton blended and fabric finish with all white text on center. Looking absolutely fine and good.",
+  "img": "https://img01.ztat.net/article/spp-media-p1/f4c40b29b4b439169e45ae5c40c40994/9101d3af904c433aa104c3080fbbb1d0.jpg?imwidth=1800",
+  "price": {
+    "org": 29.99,
+    "mrp": 19.99,
+    "off": 33,
+    "_id": {
+      "$oid": "65ed8fdaea413edd6fad04e4"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L"
+  ],
+  "category": [
+    "Men"
+  ],
+  "createdAt": {
+    "$date": "2024-03-10T10:47:54.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T10:47:54.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8634816e7874cc26fd5cb"
+  },
+  "title": "CoolBlast",
+  "name": "Blue Denim Jeans",
+  "desc": "Classic denim jeans for a stylish look. Made from high-quality denim material. Features a regular fit and durable construction.",
+  "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa1%2Ff4%2Fa1f4f243ccd1dfd2b3538602ecea3a3eaed3abf5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "price": {
+    "org": 49.99,
+    "mrp": 39.99,
+    "off": 20,
+    "_id": {
+      "$oid": "65f8634816e7874cc26fd5cc"
+    }
+  },
+  "sizes": [
+    "28",
+    "30",
+    "32",
+    "34"
+  ],
+  "category": [
+    "Men"
+  ],
+  "createdAt": {
+    "$date": "2024-03-18T15:52:40.917Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T15:52:40.917Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8634916e7874cc26fd5cf"
+  },
+  "title": "SneakerFlex",
+  "name": "White Sneakers",
+  "desc": "Comfortable and trendy white sneakers for casual wear. Made from breathable materials with a stylish design. Perfect for any occasion.",
+  "img": "https://m.media-amazon.com/images/I/61+aC7-mfvL._SY695_.jpg",
+  "price": {
+    "org": 59.99,
+    "mrp": 49.99,
+    "off": 17,
+    "_id": {
+      "$oid": "65f8634916e7874cc26fd5d0"
+    }
+  },
+  "sizes": [
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+  "category": [
+    "Men",
+    "Shoes"
+  ],
+  "createdAt": {
+    "$date": "2024-03-18T15:52:41.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T15:52:41.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8634916e7874cc26fd5d3"
+  },
+  "title": "Titan",
+  "name": "Silver Stainless Steel Watch",
+  "desc": "A stylish and elegant silver watch crafted from premium stainless steel. Features a minimalist design with a durable construction.",
+  "img": "https://m.media-amazon.com/images/I/51ykbSj-eoL._SX679_.jpg",
+  "price": {
+    "org": 79.99,
+    "mrp": 69.99,
+    "off": 13,
+    "_id": {
+      "$oid": "65f8634916e7874cc26fd5d4"
+    }
+  },
+  "sizes": [],
+  "category": [
+    "Men",
+    "Accessories"
+  ],
+  "createdAt": {
+    "$date": "2024-03-18T15:52:41.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T15:52:41.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8634916e7874cc26fd5d7"
+  },
+  "title": "ActiveFit",
+  "name": "Black Sports Jacket",
+  "desc": "Stay active and stylish with this black sports jacket. Made from breathable and moisture-wicking fabric for maximum comfort during workouts.",
+  "img": "https://www.rockstarjeans.com/cdn/shop/products/RTS190073_1.jpg?v=1673621440&width=493",
+  "price": {
+    "org": 39.99,
+    "mrp": 29.99,
+    "off": 25,
+    "_id": {
+      "$oid": "65f8634916e7874cc26fd5d8"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": [
+    "Men",
+    "Sports"
+  ],
+  "createdAt": {
+    "$date": "2024-03-18T15:52:41.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T15:52:41.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8634916e7874cc26fd5db"
+  },
+  "title": "UrbanChic",
+  "name": "Navy Blue Hoodie",
+  "desc": "Keep warm and stylish with this navy blue hoodie. Made from soft and comfortable fabric with a relaxed fit. Perfect for casual outings.",
+  "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F02%2Fee%2F02eea6930a44e7bf0eadc42c160b11cfa0934f55.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "price": {
+    "org": 34.99,
+    "mrp": 24.99,
+    "off": 29,
+    "_id": {
+      "$oid": "65f8634916e7874cc26fd5dc"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": [
+    "Men",
+    "Casual"
+  ],
+  "createdAt": {
+    "$date": "2024-03-18T15:52:41.805Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T15:52:41.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8634916e7874cc26fd5df"
+  },
+  "title": "FormalEdge",
+  "name": "Black Leather Belt",
+  "desc": "Complete your formal look with this black leather belt. Made from genuine leather with a classic buckle closure. A must-have accessory for any wardrobe.",
+  "img": "https://imagescdn.pantaloons.com/img/app/product/9/912706-11302134.jpg?q=75&auto=format&w=250&h=400",
+  "price": {
+    "org": 19.99,
+    "mrp": 14.99,
+    "off": 25,
+    "_id": {
+      "$oid": "65f8634916e7874cc26fd5e0"
+    }
+  },
+  "sizes": [
+    "32",
+    "34",
+    "36",
+    "38"
+  ],
+  "category": [
+    "Men",
+    "Accessories"
+  ],
+  "createdAt": {
+    "$date": "2024-03-18T15:52:41.945Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T15:52:41.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8634a16e7874cc26fd5e3"
+  },
+  "title": "TrendyChinos",
+  "name": "Beige Chino Pants",
+  "desc": "Add a touch of sophistication to your wardrobe with these beige chino pants. Made from premium cotton fabric with a slim-fit design.",
+  "img": "https://m.media-amazon.com/images/I/61u11EamcPL._AC_UY1100_.jpg",
+  "price": {
+    "org": 44.99,
+    "mrp": 34.99,
+    "off": 22,
+    "_id": {
+      "$oid": "65f8634a16e7874cc26fd5e4"
+    }
+  },
+  "sizes": [
+    "28",
+    "30",
+    "32",
+    "34"
+  ],
+  "category": [
+    "Men",
+    "Casual"
+  ],
+  "createdAt": {
+    "$date": "2024-03-18T15:52:42.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T15:52:42.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8634a16e7874cc26fd5e7"
+  },
+  "title": "ClassicBlazer",
+  "name": "Navy Blue Formal Blazer",
+  "desc": "Achieve a sophisticated look with this navy blue formal blazer. Made from premium quality fabric with a tailored fit. Perfect for business meetings and formal events.",
+  "img": "https://m.media-amazon.com/images/I/71sxLxYuvJL._SY879_.jpg",
+  "price": {
+    "org": 89.99,
+    "mrp": 79.99,
+    "off": 11,
+    "_id": {
+      "$oid": "65f8634a16e7874cc26fd5e8"
+    }
+  },
+  "sizes": [
+    "38",
+    "40",
+    "42",
+    "44"
+  ],
+  "category": [
+    "Men",
+    "Formal"
+  ],
+  "createdAt": {
+    "$date": "2024-03-18T15:52:42.491Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T15:52:42.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8634a16e7874cc26fd5eb"
+  },
+  "title": "SmartBackpack",
+  "name": "Gray Laptop Backpack",
+  "desc": "Stay organized and stylish with this gray laptop backpack. Features multiple compartments and padded straps for comfort. Ideal for work, travel, or daily use.",
+  "img": "https://m.media-amazon.com/images/I/91K1GFTMIRL._SL1500_.jpg",
+  "price": {
+    "org": 59.99,
+    "mrp": 49.99,
+    "off": 17,
+    "_id": {
+      "$oid": "65f8634a16e7874cc26fd5ec"
+    }
+  },
+  "sizes": [],
+  "category": [
+    "Men",
+    "Bags"
+  ],
+  "createdAt": {
+    "$date": "2024-03-18T15:52:42.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T15:52:42.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f99742bbd0e3d41edf887a"
+  },
+  "title": "BlueDenimShirt",
+  "name": "Classic Blue Denim Shirt",
+  "desc": "A timeless classic, this blue denim shirt is a wardrobe staple. Made from high-quality denim fabric, it features a button-down collar and chest pocket for added style.",
+  "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1671212881_9802295.jpg?w=480&dpr=1.2",
+  "price": {
+    "org": 49.99,
+    "mrp": 39.99,
+    "off": 20,
+    "_id": {
+      "$oid": "65f99742bbd0e3d41edf887b"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": [
+    "Men",
+    "Shirts"
+  ],
+  "createdAt": {
+    "$date": "2024-03-19T13:46:42.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-19T13:46:42.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f9977fe49b223fbf2fddb1"
+  },
+  "title": "BlueDenimShirt",
+  "name": "Classic Blue Denim Shirt",
+  "desc": "A timeless classic, this blue denim shirt is a wardrobe staple. Made from high-quality denim fabric, it features a button-down collar and chest pocket for added style.",
+  "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1671212881_9802295.jpg?w=480&dpr=1.2",
+  "price": {
+    "org": 49.99,
+    "mrp": 39.99,
+    "off": 20,
+    "_id": {
+      "$oid": "65f9977fe49b223fbf2fddb2"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": [
+    "Men",
+    "Shirts"
+  ],
+  "createdAt": {
+    "$date": "2024-03-19T13:47:43.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-19T13:47:43.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee0a9ba4eedeb071313"
+  },
+  "title": "Stevlet",
+  "name": "Black Casual T-Shirt",
+  "desc": "A comfortable and stylish t-shirt for everyday wear. Cotton blended and fabric finish with all white text on center. Looking absolutely fine and good.",
+  "img": "https://img01.ztat.net/article/spp-media-p1/f4c40b29b4b439169e45ae5c40c40994/9101d3af904c433aa104c3080fbbb1d0.jpg?imwidth=1800",
+  "price": {
+    "org": 29.99,
+    "mrp": 19.99,
+    "off": 33,
+    "_id": {
+      "$oid": "65ec804b88ab755b24ea8216"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L"
+  ],
+  "category": [],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:20.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:20.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee0a9ba4eedeb071317"
+  },
+  "title": "Stevlet",
+  "name": "Black Casual T-Shirt",
+  "desc": "A comfortable and stylish t-shirt for everyday wear. Cotton blended and fabric finish with all white text on center. Looking absolutely fine and good.",
+  "img": "https://img01.ztat.net/article/spp-media-p1/f4c40b29b4b439169e45ae5c40c40994/9101d3af904c433aa104c3080fbbb1d0.jpg?imwidth=1800",
+  "price": {
+    "org": 29.99,
+    "mrp": 19.99,
+    "off": 33,
+    "_id": {
+      "$oid": "65ed8fdaea413edd6fad04e4"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L"
+  ],
+  "category": [
+    "Men"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:20.727Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:20.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee0a9ba4eedeb07131b"
+  },
+  "title": "CoolBlast",
+  "name": "Blue Denim Jeans",
+  "desc": "Classic denim jeans for a stylish look. Made from high-quality denim material. Features a regular fit and durable construction.",
+  "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa1%2Ff4%2Fa1f4f243ccd1dfd2b3538602ecea3a3eaed3abf5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "price": {
+    "org": 49.99,
+    "mrp": 39.99,
+    "off": 20,
+    "_id": {
+      "$oid": "65f8634816e7874cc26fd5cc"
+    }
+  },
+  "sizes": [
+    "28",
+    "30",
+    "32",
+    "34"
+  ],
+  "category": [
+    "Men"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:20.792Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:20.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee0a9ba4eedeb07131f"
+  },
+  "title": "SneakerFlex",
+  "name": "White Sneakers",
+  "desc": "Comfortable and trendy white sneakers for casual wear. Made from breathable materials with a stylish design. Perfect for any occasion.",
+  "img": "https://m.media-amazon.com/images/I/61+aC7-mfvL._SY695_.jpg",
+  "price": {
+    "org": 59.99,
+    "mrp": 49.99,
+    "off": 17,
+    "_id": {
+      "$oid": "65f8634916e7874cc26fd5d0"
+    }
+  },
+  "sizes": [
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+  "category": [
+    "Men",
+    "Shoes"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:20.860Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:20.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee0a9ba4eedeb071323"
+  },
+  "title": "Titan",
+  "name": "Silver Stainless Steel Watch",
+  "desc": "A stylish and elegant silver watch crafted from premium stainless steel. Features a minimalist design with a durable construction.",
+  "img": "https://m.media-amazon.com/images/I/51ykbSj-eoL._SX679_.jpg",
+  "price": {
+    "org": 79.99,
+    "mrp": 69.99,
+    "off": 13,
+    "_id": {
+      "$oid": "65f8634916e7874cc26fd5d4"
+    }
+  },
+  "sizes": [],
+  "category": [
+    "Men",
+    "Accessories"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:20.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:20.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee0a9ba4eedeb071327"
+  },
+  "title": "ActiveFit",
+  "name": "Black Sports Jacket",
+  "desc": "Stay active and stylish with this black sports jacket. Made from breathable and moisture-wicking fabric for maximum comfort during workouts.",
+  "img": "https://www.rockstarjeans.com/cdn/shop/products/RTS190073_1.jpg?v=1673621440&width=493",
+  "price": {
+    "org": 39.99,
+    "mrp": 29.99,
+    "off": 25,
+    "_id": {
+      "$oid": "65f8634916e7874cc26fd5d8"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": [
+    "Men",
+    "Sports"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:20.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:20.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee1a9ba4eedeb07132b"
+  },
+  "title": "UrbanChic",
+  "name": "Navy Blue Hoodie",
+  "desc": "Keep warm and stylish with this navy blue hoodie. Made from soft and comfortable fabric with a relaxed fit. Perfect for casual outings.",
+  "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F02%2Fee%2F02eea6930a44e7bf0eadc42c160b11cfa0934f55.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "price": {
+    "org": 34.99,
+    "mrp": 24.99,
+    "off": 29,
+    "_id": {
+      "$oid": "65f8634916e7874cc26fd5dc"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": [
+    "Men",
+    "Casual"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:21.055Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:21.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee1a9ba4eedeb07132f"
+  },
+  "title": "FormalEdge",
+  "name": "Black Leather Belt",
+  "desc": "Complete your formal look with this black leather belt. Made from genuine leather with a classic buckle closure. A must-have accessory for any wardrobe.",
+  "img": "https://imagescdn.pantaloons.com/img/app/product/9/912706-11302134.jpg?q=75&auto=format&w=250&h=400",
+  "price": {
+    "org": 19.99,
+    "mrp": 14.99,
+    "off": 25,
+    "_id": {
+      "$oid": "65f8634916e7874cc26fd5e0"
+    }
+  },
+  "sizes": [
+    "32",
+    "34",
+    "36",
+    "38"
+  ],
+  "category": [
+    "Men",
+    "Accessories"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:21.127Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:21.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee1a9ba4eedeb071333"
+  },
+  "title": "TrendyChinos",
+  "name": "Beige Chino Pants",
+  "desc": "Add a touch of sophistication to your wardrobe with these beige chino pants. Made from premium cotton fabric with a slim-fit design.",
+  "img": "https://m.media-amazon.com/images/I/61u11EamcPL._AC_UY1100_.jpg",
+  "price": {
+    "org": 44.99,
+    "mrp": 34.99,
+    "off": 22,
+    "_id": {
+      "$oid": "65f8634a16e7874cc26fd5e4"
+    }
+  },
+  "sizes": [
+    "28",
+    "30",
+    "32",
+    "34"
+  ],
+  "category": [
+    "Men",
+    "Casual"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:21.189Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:21.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee1a9ba4eedeb071337"
+  },
+  "title": "ClassicBlazer",
+  "name": "Navy Blue Formal Blazer",
+  "desc": "Achieve a sophisticated look with this navy blue formal blazer. Made from premium quality fabric with a tailored fit. Perfect for business meetings and formal events.",
+  "img": "https://m.media-amazon.com/images/I/71sxLxYuvJL._SY879_.jpg",
+  "price": {
+    "org": 89.99,
+    "mrp": 79.99,
+    "off": 11,
+    "_id": {
+      "$oid": "65f8634a16e7874cc26fd5e8"
+    }
+  },
+  "sizes": [
+    "38",
+    "40",
+    "42",
+    "44"
+  ],
+  "category": [
+    "Men",
+    "Formal"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:21.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:21.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee1a9ba4eedeb07133b"
+  },
+  "title": "SmartBackpack",
+  "name": "Gray Laptop Backpack",
+  "desc": "Stay organized and stylish with this gray laptop backpack. Features multiple compartments and padded straps for comfort. Ideal for work, travel, or daily use.",
+  "img": "https://m.media-amazon.com/images/I/91K1GFTMIRL._SL1500_.jpg",
+  "price": {
+    "org": 59.99,
+    "mrp": 49.99,
+    "off": 17,
+    "_id": {
+      "$oid": "65f8634a16e7874cc26fd5ec"
+    }
+  },
+  "sizes": [],
+  "category": [
+    "Men",
+    "Bags"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:21.316Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:21.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee1a9ba4eedeb07133f"
+  },
+  "title": "BlueDenimShirt",
+  "name": "Classic Blue Denim Shirt",
+  "desc": "A timeless classic, this blue denim shirt is a wardrobe staple. Made from high-quality denim fabric, it features a button-down collar and chest pocket for added style.",
+  "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1671212881_9802295.jpg?w=480&dpr=1.2",
+  "price": {
+    "org": 49.99,
+    "mrp": 39.99,
+    "off": 20,
+    "_id": {
+      "$oid": "65f99742bbd0e3d41edf887b"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": [
+    "Men",
+    "Shirts"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:21.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:21.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811ee1a9ba4eedeb071343"
+  },
+  "title": "BlueDenimShirt",
+  "name": "Classic Blue Denim Shirt",
+  "desc": "A timeless classic, this blue denim shirt is a wardrobe staple. Made from high-quality denim fabric, it features a button-down collar and chest pocket for added style.",
+  "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1671212881_9802295.jpg?w=480&dpr=1.2",
+  "price": {
+    "org": 49.99,
+    "mrp": 39.99,
+    "off": 20,
+    "_id": {
+      "$oid": "65f9977fe49b223fbf2fddb2"
+    }
+  },
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": [
+    "Men",
+    "Shirts"
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T09:01:21.450Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T09:01:21.450Z"
+  },
+  "__v": 0
+},
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071344"
+    },
+    "title": "CasualComfort",
+    "name": "Striped Cotton T-Shirt",
+    "desc": "Classic striped t-shirt made from premium cotton. Perfect for everyday casual wear with a comfortable fit and breathable fabric.",
+    "img": "https://images.unsplash.com/photo-1576566588028-4147f3842f27",
+    "price": {
+      "org": 39.99,
+      "mrp": 29.99,
+      "off": 25,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071345"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Casual Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:21.500Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:21.500Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071346"
+    },
+    "title": "UrbanStyle",
+    "name": "Casual Denim Jacket",
+    "desc": "Versatile denim jacket perfect for layering. Features a modern cut and premium denim material.",
+    "img": "https://images.unsplash.com/photo-1551537482-f2075a1d41f2",
+    "price": {
+      "org": 79.99,
+      "mrp": 59.99,
+      "off": 25,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071347"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Casual Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:21.600Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:21.600Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071348"
+    },
+    "title": "ComfortFlex",
+    "name": "Casual Cargo Pants",
+    "desc": "Comfortable cargo pants with multiple pockets. Perfect for casual outings and weekend wear.",
+    "img": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80",
+    "price": {
+      "org": 59.99,
+      "mrp": 44.99,
+      "off": 25,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071349"
+      }
+    },
+    "sizes": ["30", "32", "34", "36"],
+    "category": ["Men", "Casual Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:21.700Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:21.700Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071350"
+    },
+    "title": "WeekendVibes",
+    "name": "Casual Polo Shirt",
+    "desc": "Classic polo shirt with a modern twist. Made from premium cotton pique fabric.",
+    "img": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99",
+    "price": {
+      "org": 44.99,
+      "mrp": 34.99,
+      "off": 22,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071351"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Casual Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:21.800Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:21.800Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071352"
+    },
+    "title": "CasualCool",
+    "name": "Linen Casual Shirt",
+    "desc": "Breathable linen shirt perfect for casual occasions. Features a relaxed fit and natural fabric.",
+    "img": "https://images.unsplash.com/photo-1604695573706-53170668f6a6",
+    "price": {
+      "org": 54.99,
+      "mrp": 39.99,
+      "off": 27,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071353"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Casual Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:21.900Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:21.900Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071354"
+    },
+    "title": "ExecutiveStyle",
+    "name": "Classic Formal Suit",
+    "desc": "Premium wool blend suit perfect for business meetings and formal events. Includes jacket and trousers.",
+    "img": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35",
+    "price": {
+      "org": 299.99,
+      "mrp": 249.99,
+      "off": 17,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071355"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Formal Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:22.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:22.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071356"
+    },
+    "title": "BusinessElite",
+    "name": "Formal White Shirt",
+    "desc": "Crisp white formal shirt made from Egyptian cotton. Perfect for professional settings.",
+    "img": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10",
+    "price": {
+      "org": 69.99,
+      "mrp": 54.99,
+      "off": 21,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071357"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Formal Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:22.100Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:22.100Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071358"
+    },
+    "title": "FormalFinesse",
+    "name": "Formal Trousers",
+    "desc": "Classic formal trousers with a perfect fit. Made from premium wool blend fabric.",
+    "img": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a",
+    "price": {
+      "org": 89.99,
+      "mrp": 69.99,
+      "off": 22,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071359"
+      }
+    },
+    "sizes": ["30", "32", "34", "36"],
+    "category": ["Men", "Formal Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:22.200Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:22.200Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071360"
+    },
+    "title": "BusinessPro",
+    "name": "Formal Waistcoat",
+    "desc": "Elegant waistcoat to complete your formal look. Features a classic design and premium fabric.",
+    "img": "https://images.unsplash.com/photo-1507679799987-c73779587ccf",
+    "price": {
+      "org": 79.99,
+      "mrp": 59.99,
+      "off": 25,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071361"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Formal Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:22.300Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:22.300Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071362"
+    },
+    "title": "FormalLuxe",
+    "name": "Formal Blazer",
+    "desc": "Premium blazer perfect for formal occasions. Features a modern cut and superior craftsmanship.",
+    "img": "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0",
+    "price": {
+      "org": 199.99,
+      "mrp": 159.99,
+      "off": 20,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071363"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Formal Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:22.400Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:22.400Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071364"
+    },
+    "title": "WinterCozy",
+    "name": "Wool Overcoat",
+    "desc": "Premium wool overcoat for ultimate winter protection. Features a classic design and warm lining.",
+    "img": "https://images.unsplash.com/photo-1545594861-3bef43ff2fc8",
+    "price": {
+      "org": 249.99,
+      "mrp": 199.99,
+      "off": 20,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071365"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Winter Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:22.500Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:22.500Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071366"
+    },
+    "title": "WarmStyle",
+    "name": "Winter Puffer Jacket",
+    "desc": "Insulated puffer jacket for extreme cold. Features water-resistant material and warm filling.",
+    "img": "https://images.unsplash.com/photo-1604644401890-0bd678c83788",
+    "price": {
+      "org": 179.99,
+      "mrp": 139.99,
+      "off": 22,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071367"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Winter Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:22.600Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:22.600Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071368"
+    },
+    "title": "WinterEssential",
+    "name": "Wool Sweater",
+    "desc": "Warm wool sweater with a classic design. Perfect for layering in cold weather.",
+    "img": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9",
+    "price": {
+      "org": 89.99,
+      "mrp": 69.99,
+      "off": 22,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071369"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Winter Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:22.700Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:22.700Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071370"
+    },
+    "title": "SnowStyle",
+    "name": "Winter Boots",
+    "desc": "Waterproof winter boots with warm lining. Perfect for snowy conditions.",
+    "img": "https://images.unsplash.com/photo-1542219550-37153d387c27",
+    "price": {
+      "org": 149.99,
+      "mrp": 119.99,
+      "off": 20,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071371"
+      }
+    },
+    "sizes": ["7", "8", "9", "10", "11"],
+    "category": ["Men", "Winter Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:22.800Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:22.800Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071372"
+    },
+    "title": "WinterComfort",
+    "name": "Thermal Set",
+    "desc": "Premium thermal wear set for extreme cold. Includes top and bottom with moisture-wicking technology.",
+    "img": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2",
+    "price": {
+      "org": 79.99,
+      "mrp": 59.99,
+      "off": 25,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071373"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Winter Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:22.900Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:22.900Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071374"
+    },
+    "title": "TraditionalElegance",
+    "name": "Silk Kurta Set",
+    "desc": "Premium silk kurta set with intricate embroidery. Perfect for festivals and special occasions.",
+    "img": "https://images.unsplash.com/photo-1606902965551-dce093cda6e7",
+    "price": {
+      "org": 159.99,
+      "mrp": 129.99,
+      "off": 19,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071375"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Ethnic Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:23.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:23.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071376"
+    },
+    "title": "FestiveLook",
+    "name": "Embroidered Sherwani",
+    "desc": "Luxurious sherwani with detailed embroidery work. Perfect for weddings and formal occasions.",
+    "img": "https://images.unsplash.com/photo-1558697698-9300a84a6a99",
+    "price": {
+      "org": 299.99,
+      "mrp": 249.99,
+      "off": 17,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071377"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Ethnic Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:23.100Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:23.100Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071378"
+    },
+    "title": "EthnicCharm",
+    "name": "Brocade Nehru Jacket",
+    "desc": "Traditional nehru jacket in rich brocade fabric. Perfect for festive occasions.",
+    "img": "https://images.unsplash.com/photo-1579969406275-0b37fa82deca",
+    "price": {
+      "org": 129.99,
+      "mrp": 99.99,
+      "off": 23,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071379"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Ethnic Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:23.200Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:23.200Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071380"
+    },
+    "title": "TraditionalGrace",
+    "name": "Dhoti Kurta Set",
+    "desc": "Classic dhoti kurta set in pure cotton. Perfect for traditional ceremonies.",
+    "img": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b",
+    "price": {
+      "org": 89.99,
+      "mrp": 69.99,
+      "off": 22,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071381"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Ethnic Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:23.300Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:23.300Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071382"
+    },
+    "title": "FestivalFinery",
+    "name": "Embroidered Kurta Pajama",
+    "desc": "Elegant kurta pajama set with traditional embroidery. Perfect for festivals and celebrations.",
+    "img": "https://images.unsplash.com/photo-1604507555393-7b53eda6f0b1",
+    "price": {
+      "org": 119.99,
+      "mrp": 89.99,
+      "off": 25,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071383"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Ethnic Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:23.400Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:23.400Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071384"
+    },
+    "title": "SummerBreeze",
+    "name": "Printed Hawaiian Shirt",
+    "desc": "Vibrant Hawaiian shirt perfect for summer. Features tropical prints and breathable fabric.",
+    "img": "https://images.unsplash.com/photo-1517191297489-48c463380e8f",
+    "price": {
+      "org": 49.99,
+      "mrp": 39.99,
+      "off": 20,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071385"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Casual Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:23.500Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:23.500Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071386"
+    },
+    "title": "ClassicElegance",
+    "name": "Three-Piece Suit",
+    "desc": "Sophisticated three-piece suit in charcoal grey. Perfect for weddings and special occasions.",
+    "img": "https://images.unsplash.com/photo-1593032465175-481ac7f401a0",
+    "price": {
+      "org": 399.99,
+      "mrp": 329.99,
+      "off": 18,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071387"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Formal Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:23.600Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:23.600Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071388"
+    },
+    "title": "SnowPeak",
+    "name": "Down Winter Jacket",
+    "desc": "Premium down-filled winter jacket with water-resistant exterior. Perfect for extreme cold.",
+    "img": "https://images.unsplash.com/photo-1544923246-77307dd654cb",
+    "price": {
+      "org": 279.99,
+      "mrp": 229.99,
+      "off": 18,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071389"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Winter Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:23.700Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:23.700Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071390"
+    },
+    "title": "RoyalHeritage",
+    "name": "Wedding Sherwani Set",
+    "desc": "Luxurious wedding sherwani with intricate zari work. Includes matching accessories.",
+    "img": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e",
+    "price": {
+      "org": 449.99,
+      "mrp": 379.99,
+      "off": 16,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071391"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Ethnic Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:23.800Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:23.800Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071392"
+    },
+    "title": "CasualVibes",
+    "name": "Distressed Denim Shorts",
+    "desc": "Trendy distressed denim shorts perfect for summer casual wear. Features a comfortable fit and vintage wash.",
+    "img": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c",
+    "price": {
+      "org": 54.99,
+      "mrp": 39.99,
+      "off": 27,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071393"
+      }
+    },
+    "sizes": ["28", "30", "32", "34", "36"],
+    "category": ["Men", "Casual Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:23.900Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:23.900Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071394"
+    },
+    "title": "StreetStyle",
+    "name": "Graphic Print Hoodie",
+    "desc": "Urban style hoodie with modern graphic print. Made from premium cotton blend for comfort.",
+    "img": "https://images.unsplash.com/photo-1556821840-3a63f95609a7",
+    "price": {
+      "org": 69.99,
+      "mrp": 54.99,
+      "off": 21,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071395"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Casual Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:24.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:24.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071396"
+    },
+    "title": "WeekendCasual",
+    "name": "Linen Beach Shorts",
+    "desc": "Comfortable linen beach shorts perfect for summer days. Features elastic waistband and side pockets.",
+    "img": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa",
+    "price": {
+      "org": 44.99,
+      "mrp": 34.99,
+      "off": 22,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071397"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Casual Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:24.100Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:24.100Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071398"
+    },
+    "title": "BusinessClass",
+    "name": "Pinstripe Business Suit",
+    "desc": "Classic pinstripe suit perfect for business meetings. Features premium wool blend fabric.",
+    "img": "https://images.unsplash.com/photo-1594938374182-f8830c46b5e8",
+    "price": {
+      "org": 349.99,
+      "mrp": 279.99,
+      "off": 20,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071399"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Formal Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:24.200Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:24.200Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071400"
+    },
+    "title": "FormalFinesse",
+    "name": "French Cuff Dress Shirt",
+    "desc": "Premium dress shirt with French cuffs. Perfect for formal occasions and business wear.",
+    "img": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2",
+    "price": {
+      "org": 79.99,
+      "mrp": 64.99,
+      "off": 19,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071401"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Formal Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:24.300Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:24.300Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071402"
+    },
+    "title": "ExecutiveStyle",
+    "name": "Double-Breasted Suit",
+    "desc": "Sophisticated double-breasted suit in navy blue. Perfect for formal events.",
+    "img": "https://images.unsplash.com/photo-1594938298136-7378f356c036",
+    "price": {
+      "org": 399.99,
+      "mrp": 319.99,
+      "off": 20,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071403"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Formal Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:24.400Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:24.400Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071404"
+    },
+    "title": "WinterStyle",
+    "name": "Cashmere Wool Coat",
+    "desc": "Luxurious cashmere wool coat for premium winter style. Features classic design and superior warmth.",
+    "img": "https://images.unsplash.com/photo-1544923246-77307dd654cb",
+    "price": {
+      "org": 449.99,
+      "mrp": 379.99,
+      "off": 16,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071405"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Winter Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:24.500Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:24.500Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071406"
+    },
+    "title": "SnowSport",
+    "name": "Ski Jacket",
+    "desc": "Professional ski jacket with thermal insulation. Perfect for winter sports and activities.",
+    "img": "https://images.unsplash.com/photo-1609250291996-fdebe6020a8f",
+    "price": {
+      "org": 299.99,
+      "mrp": 249.99,
+      "off": 17,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071407"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Winter Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:24.600Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:24.600Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071408"
+    },
+    "title": "WinterComfort",
+    "name": "Merino Wool Sweater",
+    "desc": "Premium merino wool sweater for ultimate comfort. Features ribbed cuffs and hem.",
+    "img": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2",
+    "price": {
+      "org": 129.99,
+      "mrp": 99.99,
+      "off": 23,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071409"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Winter Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:24.700Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:24.700Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071410"
+    },
+    "title": "TraditionalLuxe",
+    "name": "Velvet Sherwani",
+    "desc": "Luxurious velvet sherwani with golden embroidery. Perfect for wedding ceremonies.",
+    "img": "https://images.unsplash.com/photo-1606902965551-dce093cda6e7",
+    "price": {
+      "org": 499.99,
+      "mrp": 399.99,
+      "off": 20,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071411"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Ethnic Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:24.800Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:24.800Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071412"
+    },
+    "title": "FestiveGlory",
+    "name": "Silk Kurta Jacket Set",
+    "desc": "Premium silk kurta with matching jacket. Perfect for festive occasions.",
+    "img": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b",
+    "price": {
+      "org": 279.99,
+      "mrp": 229.99,
+      "off": 18,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071413"
+      }
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "category": ["Men", "Ethnic Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:24.900Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:24.900Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66811ee2a9ba4eedeb071414"
+    },
+    "title": "RoyalEthnic",
+    "name": "Embroidered Bandhgala",
+    "desc": "Classic bandhgala suit with intricate embroidery. Perfect for formal ethnic occasions.",
+    "img": "https://images.unsplash.com/photo-1558697698-9300a84a6a99",
+    "price": {
+      "org": 349.99,
+      "mrp": 279.99,
+      "off": 20,
+      "_id": {
+        "$oid": "66811ee2a9ba4eedeb071415"
+      }
+    },
+    "sizes": ["38", "40", "42", "44"],
+    "category": ["Men", "Ethnic Wear"],
+    "createdAt": {
+      "$date": "2024-06-30T09:01:25.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-30T09:01:25.000Z"
+    },
+    "__v": 0
+  }
+]
